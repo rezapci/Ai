@@ -1,7 +1,10 @@
 # This repository is to Honor :bouquet: of Muḥammad ibn Mūsā al-Khwārizmi محمد بن موسى خوارزمی 
  ![picture alt](https://www.researchgate.net/profile/Jorge_Fernandez25/publication/326357560/figure/fig13/AS:647700987011079@1531435357496/Abu-Jafar-Muhammad-ibn-Musa-al-Khwarizmi.png "Muḥammad ibn Mūsā al-Khwārizmi محمد بن موسى خوارزمی")
 - # :orange_book: [About Muḥammad ibn Mūsā al-Khwārizmi محمد بن موسى خوارزمی](http://www.staff.science.uu.nl/~hogen103/khwarizmi1.html) #
-A curated list of articles, books, courses, infographics and many more covering Artificial Intelligence,Algorithm, Machine Learning and    Deep Learning gathered By Reza Hashemi :+1:
+A curated list of articles, books, courses, infographics and many more covering Artificial Intelligence,Algorithm, Machine Learning and    Deep Learning gathered By ***Reza Hashemi*** :+1:
+
+This site was built using [GitHub Pages](https://pages.github.com/).
+
 
 ![alt text][logo]
 
