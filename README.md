@@ -16,11 +16,6 @@ A curated list of articles, books, courses, infographics and many more covering 
 * [Stanford University Algorithms: Design and Analysis, Part 1](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
 
-
-
-### Online Forum & Q/A 
-- [Python Forum](https://python-forum.io/index.php) ![picure alt](https://www.python.org/static/community_logos/python-powered-h-50x65.png)
-
 ### Articles
 - [Introduction to Algorithms for Beginners and Aspiring Programmers](https://www.thecodingdelight.com/introduction-algorithms/)
 - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
@@ -122,6 +117,10 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 - [E-Books](http://it-ebooks.info/)
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [Building Machine Learning Systems with Python](http://barbra-coco.dyndns.org/yuri/Python/Building-Machine-Learning-Systems-Python-ebook%20(1).pdf?source=post_page---------------------------)
+
+
+### Online Forum & Q/A 
+- [Python Forum](https://python-forum.io/index.php) ![picure alt](https://www.python.org/static/community_logos/python-powered-h-50x65.png)
 
 
 #### Fork this repo, add more content and a PR to merge that others can learn and share with others. More education :school: is what makes people live longer, not more money
