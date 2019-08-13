@@ -6,6 +6,9 @@ A curated list of articles, books, courses, infographics and many more covering 
 
 ## Beginners - Getting Started
 
+### Online Forum & Q/A 
+- [Python Forum](https://python-forum.io/index.php)
+
 ### Articles
 - [Introduction to Algorithms for Beginners and Aspiring Programmers](https://www.thecodingdelight.com/introduction-algorithms/)
 - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
