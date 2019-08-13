@@ -20,6 +20,7 @@ A curated list of articles, books, courses, infographics and many more covering 
 - [An executive’s guide to AI by McKinsey&Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 
 ### Courses
+- [Learn Python](http://introtopython.org/var_string_num.html)
 - [edX Home PageSchoolYourself:GeometryX
 Introduction to Geometry](https://courses.edx.org/courses/course-v1:SchoolYourself+GeometryX+2T2016/course/)
 - [Easy to Advanced Data Structures](https://www.udemy.com/introduction-to-data-structures/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-lYFoEj_KUQtyrw86GNLzEw&LSNPUBID=JVFxdTr9V80)
