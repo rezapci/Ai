@@ -310,6 +310,7 @@ A curated list of articles, books, courses, infographics and many more covering 
 ### R
 
 * [R Programming](https://www.coursera.org/course/rprog)
+* [Edx R Programming courses](https://www.edx.org/learn/r-programming)
 
 
 ### RethinkDB
