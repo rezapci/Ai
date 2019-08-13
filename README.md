@@ -106,6 +106,10 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 ## Free books :books: collection
 
 - [AI Sciences](https://aisciences.net/product-category/free-ebooks/)
+- [100+ Free Data Science Book](https://www.learndatasci.com/free-data-science-books/)
+- [E-Books](http://it-ebooks.info/)
+- [R for Data Science](https://r4ds.had.co.nz/)
+- [Building Machine Learning Systems with Python](http://barbra-coco.dyndns.org/yuri/Python/Building-Machine-Learning-Systems-Python-ebook%20(1).pdf?source=post_page---------------------------)
 
 
 #### Fork this repo, add more content and a PR to merge that others can learn and share with others. More education :school: is what makes people live longer, not more money
