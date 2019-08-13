@@ -3,7 +3,9 @@
 - # :orange_book: [About Muḥammad ibn Mūsā al-Khwārizmi محمد بن موسى خوارزمی](http://www.staff.science.uu.nl/~hogen103/khwarizmi1.html) #
 A curated list of articles, books, courses, infographics and many more covering Artificial Intelligence,Algorithm, Machine Learning and    Deep Learning gathered By Reza Hashemi :+1:
 
-![alt text][logo] https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Follow Me"
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
 #### Algorithms & Data Structures
