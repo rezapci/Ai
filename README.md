@@ -1,5 +1,5 @@
 # This repository in Honor Muḥammad ibn Mūsā al-Khwārizmi محمد بن موسى خوارزمی 
- ![picture alt](https://www.researchgate.net/profile/Jorge_Fernandez25/publication/326357560/figure/fig13/AS:647700987011079@1531435357496/Abu-Jafar-Muhammad-ibn-Musa-al-Khwarizmi.png "Title is optional")
+ ![picture alt](https://www.researchgate.net/profile/Jorge_Fernandez25/publication/326357560/figure/fig13/AS:647700987011079@1531435357496/Abu-Jafar-Muhammad-ibn-Musa-al-Khwarizmi.png "Muḥammad ibn Mūsā al-Khwārizmi محمد بن موسى خوارزمی")
 - # [About AlL-Khwarizmi](http://www.staff.science.uu.nl/~hogen103/khwarizmi1.html) #
 A curated list of articles, books, courses, infographics and many more covering Artificial Intelligence,Algorithm, Machine Learning and Deep Learning. 
 
