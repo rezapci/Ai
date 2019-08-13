@@ -5,9 +5,6 @@ A curated list of articles, books, courses, infographics and many more covering 
 
 ![alt text][logo][logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Follow Me"
 
-![alt text][logo]
-
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 #### Algorithms & Data Structures
 
