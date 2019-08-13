@@ -19,6 +19,8 @@ A curated list of articles, books, courses, infographics and many more covering 
 ### Courses
 - [edX Home PageSchoolYourself:GeometryX
 Introduction to Geometry](https://courses.edx.org/courses/course-v1:SchoolYourself+GeometryX+2T2016/course/)
+- [Easy to Advanced Data Structures](https://www.udemy.com/introduction-to-data-structures/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-lYFoEj_KUQtyrw86GNLzEw&LSNPUBID=JVFxdTr9V80)
+
 - [Introduction to Artificial Intelligence by Microsoft on edx](https://www.edx.org/course/introduction-to-artificial-intelligence-ai)
 - [Introduction to Machine Learning crash course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Foundations of Machine Learning(foml) by Bloomberg](https://www.techatbloomberg.com/foml)
