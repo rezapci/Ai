@@ -4,7 +4,19 @@
 A curated list of articles, books, courses, infographics and many more covering Artificial Intelligence,Algorithm, Machine Learning and    Deep Learning. By Reza Hashemi :+1:
 
 
-## Beginners - Getting Started
+### Algorithms & Data Structures
+
+* [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
+* [IIT Bombay Foundation of Data Structures (CS213.1x)](https://courses.edx.org/courses/course-v1:IITBombayX+CS213.1x+1T2017/course/)
+* [MIT's Design and Analysis of Algorithms (Spring 2012)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012) - Dana Moshkovitz, Bruce Tidor
+* [MIT's Design and Analysis of Algorithms (Spring 2015)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015) - Erik Demaine, Srini Devadas, Nancy Lynch
+* [MIT's Introduction to Algorithms (SMA 5503) (Fall 2005)](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005) - Charles Leiserson, Erik Demaine
+* [Princeton University Algorithms, Part 1](https://www.coursera.org/learn/algorithms-part1)
+* [Princeton University Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
+* [Stanford University Algorithms: Design and Analysis, Part 1](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
+* [Stanford University Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
+
+
 
 ### Online Forum & Q/A 
 - [Python Forum](https://python-forum.io/index.php) ![picure alt](https://www.python.org/static/community_logos/python-powered-h-50x65.png)
