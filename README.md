@@ -17,6 +17,8 @@ A curated list of articles, books, courses, infographics and many more covering 
 - [An executive’s guide to AI by McKinsey&Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
 
 ### Courses
+- [edX Home PageSchoolYourself:GeometryX
+Introduction to Geometry](https://courses.edx.org/courses/course-v1:SchoolYourself+GeometryX+2T2016/course/)
 - [Introduction to Artificial Intelligence by Microsoft on edx](https://www.edx.org/course/introduction-to-artificial-intelligence-ai)
 - [Introduction to Machine Learning crash course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Foundations of Machine Learning(foml) by Bloomberg](https://www.techatbloomberg.com/foml)
