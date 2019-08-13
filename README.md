@@ -2,7 +2,6 @@
 
 A curated list of articles, books, courses, infographics and many more covering Artificial Intelligence,Algorithm, Machine Learning and Deep Learning. 
 
-> incase if you have fully honored the Abdullah Muhammad bin Musa al-Khwarizmi founder of ALGORITHM :orange_book: thank the respective other authors 
 
 ## Beginners - Getting Started
 
