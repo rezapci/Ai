@@ -7,7 +7,7 @@ A curated list of articles, books, courses, infographics and many more covering 
 ## Beginners - Getting Started
 
 ### Online Forum & Q/A 
-- [Python Forum](https://python-forum.io/index.php)![picure alt] (https://www.python.org/static/community_logos/python-powered-h-50x65.png)
+- [Python Forum](https://python-forum.io/index.php) ![picure alt] (https://www.python.org/static/community_logos/python-powered-h-50x65.png)
 
 ### Articles
 - [Introduction to Algorithms for Beginners and Aspiring Programmers](https://www.thecodingdelight.com/introduction-algorithms/)
