@@ -40,9 +40,10 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 - [Introducing Deep Learning with MATLAB](https://es.mathworks.com/content/dam/mathworks/tag-team/Objects/d/80879v00_Deep_Learning_ebook.pdf)
 - [Introduction to Tensorflow](https://dzone.com/refcardz/introduction-to-tensorflow?chapter=1)
 
-### Cheatsheets
-##   * For Paents
-       *    [Cool Math For Parents](http://www.coolmath4parents.com/)
+
+* ### Cheatsheets
+              * Nested bullet
+                  * Sub-nested bullet etc    [Cool Math For Parents](http://www.coolmath4parents.com/)
 - [Simple to advanced calculators for math and statistics, units conversion and more...](http://www.alcula.com/)
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://www.dropbox.com/s/wpphk5pg2di987u/BecomingHumanCheatSheets.pdf?dl=0)
 - [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
