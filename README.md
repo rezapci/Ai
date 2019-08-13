@@ -42,6 +42,7 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 
 
 * ### Cheatsheets
+- [Python Experimental](http://www.pythontutor.com/visualize.html#mode=edit)
 - [Cool Math For Parents](http://www.coolmath4parents.com/)
 - [Simple to advanced calculators for math and statistics, units conversion and more...](http://www.alcula.com/)
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://www.dropbox.com/s/wpphk5pg2di987u/BecomingHumanCheatSheets.pdf?dl=0)
@@ -105,4 +106,4 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 
 #### Fork this repo, add more content and a PR to merge that others can learn and share with others. More education :school: is what makes people live longer, not more money
 
-<!-- iCon by oNlineWebFonts.Com --> <img src="data:image/svg+xml;base64,CjxpbWcgc3R5bGU9IndpZHRoOiA1MDBweDsgaGVpZ2h0OiBhdXRvOyBmbG9hdDogbGVmdDsiIHNyYz0iLy9jZG4ub25saW5ld2ViZm9udHMuY29tL3N2Zy9pbWdfNTM0NDI5LnBuZyIgYWx0PSJPbmxpbmUgVHV0b3JpYWxzIj4KICA=" width="16" height="16">
+
