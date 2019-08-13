@@ -41,7 +41,7 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 - [Introduction to Tensorflow](https://dzone.com/refcardz/introduction-to-tensorflow?chapter=1)
 
 ### Cheatsheets
-##   - For Paents
+##    ~For Paents
    ~         [Cool Math For Parents](http://www.coolmath4parents.com/)
 - [Simple to advanced calculators for math and statistics, units conversion and more...](http://www.alcula.com/)
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://www.dropbox.com/s/wpphk5pg2di987u/BecomingHumanCheatSheets.pdf?dl=0)
