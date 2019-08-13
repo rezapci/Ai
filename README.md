@@ -1,5 +1,6 @@
 # This repository is to Honore Muḥammad ibn Mūsā al-Khwārizmi محمد بن موسى خوارزمی 
-
+Markup : ![picture alt](http://www.brightlightpictures.com/assets/images/portfolio/thethaw_header.jpg "Title is optional")
+- # [About AlL-Khwarizmi](http://www.staff.science.uu.nl/~hogen103/khwarizmi1.html)#
 A curated list of articles, books, courses, infographics and many more covering Artificial Intelligence,Algorithm, Machine Learning and Deep Learning. 
 
 
