@@ -48,7 +48,7 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
   - Unsupervised Learning: http://stanford.io/2MmP6FN  
 - [Machine Learning for dummies cheat sheet](https://www.dummies.com/programming/big-data/data-science/machine-learning-dummies-cheat-sheet/)
 
-### iew_quil Tutorials
+### Tutorials
 - [Machine Learning Tutorial for Beginners – Learn Machine Learning](https://data-flair.training/blogs/machine-learning-tutorial/)
 
 ### Presentations 
@@ -98,3 +98,4 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 
 
 #### Fork this repo, add more content and a PR to merge that others can learn and share with others. More education :school: is what makes people live longer, not more money
+<!-- iCon by oNlineWebFonts.Com --> <img src="data:image/svg+xml;base64,CjxpbWcgc3R5bGU9IndpZHRoOiA1MDBweDsgaGVpZ2h0OiBhdXRvOyBmbG9hdDogbGVmdDsiIHNyYz0iLy9jZG4ub25saW5ld2ViZm9udHMuY29tL3N2Zy9pbWdfNTM0NDI5LnBuZyIgYWx0PSJPbmxpbmUgVHV0b3JpYWxzIj4KICA=" width="16" height="16">
