@@ -42,8 +42,8 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 
 
 * ### Cheatsheets
-              * Nested bullet
-                  * Sub-nested bullet etc    [Cool Math For Parents](http://www.coolmath4parents.com/)
+          * Nested bullet
+               [Cool Math For Parents](http://www.coolmath4parents.com/)
 - [Simple to advanced calculators for math and statistics, units conversion and more...](http://www.alcula.com/)
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://www.dropbox.com/s/wpphk5pg2di987u/BecomingHumanCheatSheets.pdf?dl=0)
 - [Algorithms and Data Structures Cheatsheet](https://algs4.cs.princeton.edu/cheatsheet/)
