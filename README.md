@@ -41,6 +41,7 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 - [Introduction to Tensorflow](https://dzone.com/refcardz/introduction-to-tensorflow?chapter=1)
 
 ### Cheatsheets
+- [](https://www.dropbox.com/s/wpphk5pg2di987u/BecomingHumanCheatSheets.pdf?dl=0)
 - [Cheat Sheets for AI, Neural Networks, Machine Learning, Deep Learning & Big Data](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 - [The machine learning algorithm cheat sheet - sas.com](cheatsheets/machinelearning/machine-learning-cheat-sheet-sas.png)
 - [Machine Learning Cheatsheet](http://ml-cheatsheet.readthedocs.io/en/latest/index.html)
