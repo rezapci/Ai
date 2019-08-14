@@ -4,7 +4,7 @@
 
 A thoughtfully organized list of articles, books, courses, infographics and many more covering Artificial Intelligence,Algorithm, Machine Learning and    Deep Learning gathered By [***Reza Hashemi***](https://www.linkedin.com/in/rezahashemidev) :+1:.
 
-#### Fork this repo, add more content and a PR to merge that others can learn and share with others. More education :school: is what makes people live longer, not more money
+#### :exclamation: Fork this repo, add more content and a PR to merge that others can learn and share with others. More education :school: is what makes people live longer, not more money
 
 ![alt text][logo]
 
