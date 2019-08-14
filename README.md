@@ -105,10 +105,12 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Think Bayes: Bayesian Statistics Made Simple](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Think Stats: Probability and Statistics for Programmers](http://greenteapress.com/thinkstats/) - Allen B. Downey (using Python)
 
+- - - - 
 
 #### Mathematics For Computer Science
 
 * [Discrete Structures for Computer Science: Counting, Recursion, and Probability](http://cglab.ca/~michiel/DiscreteStructures/) - Michiel Smid
+- - - - 
 
 ## Free books :books: collection
 
@@ -117,6 +119,7 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 - [E-Books](http://it-ebooks.info/)
 - [R for Data Science](https://r4ds.had.co.nz/)
 - [Building Machine Learning Systems with Python](http://barbra-coco.dyndns.org/yuri/Python/Building-Machine-Learning-Systems-Python-ebook%20(1).pdf?source=post_page---------------------------)
+- - - - 
 
 #### Machine Learning
 
@@ -141,12 +144,13 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/) - Trevor Hastie, Robert Tibshirani, and Jerome Friedman
 * [The LION Way: Machine Learning plus Intelligent Optimization](https://intelligent-optimization.org/LIONbook/lionbook_3v0.pdf) - Roberto Battiti, Mauro Brunato (PDF)
 * [The Python Game Book](http://thepythongamebook.com/en%3Astart)
+- - - - 
 
 ### Assembly
 
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [Introductory Intel x86: Architecture, Assembly, Applications, & Alliteration](http://opensecuritytraining.info/IntroX86.html)
-
+- - - - 
 
 ### Android
 
@@ -160,25 +164,25 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Programming Mobile Services for Android Handheld Systems: Communication](https://www.coursera.org/course/posacommunication)
 * [Programming Mobile Services for Android Handheld Systems: Concurrency](https://www.coursera.org/course/posaconcurrency)
 * [Udacity Android Course Catalog](https://www.udacity.com/courses#!/android#!/android)
-
+- - - -
 
 ### Bash / Shell
 
 * [Bento Shell Track](https://bento.io/topic/shell) (Bento)
 * [Shell Scripting Tutorial](https://www.youtube.com/playlist?list=PL7B7FA4E693D8E790)
-
+- - - -
 
 ### C
 
 * [C Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWoGzOXqtKeM71OLpvZbuU0P)
 * [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNsjDvmUcmQ)
 * [The Arduino Platform and C Programming](https://www.coursera.org/learn/arduino-platform)
-
+- - - - 
 
 ### C Sharp
 
 * [Learn how to program: C#](https://www.learnhowtoprogram.com/c) - Epicodus Inc.
-
+- - - - 
 
 ### C++
 
@@ -190,23 +194,23 @@ A thoughtfully organized list of articles, books, courses, infographics and many
     * [Advanced C++](https://www.edx.org/course/advanced-c-plus-plus-1)
     * [Intermediate C++](https://www.edx.org/course/intermediate-c-plus-plus-1)
     * [Introduction to C++](https://www.edx.org/course/introduction-c-plus-plus-1)
-   
+- - - - 
 
 
 ### Clojure
 
 * [Functional Programming with Clojure](http://mooc.fi/courses/2014/clojure/)
-
+- - - -
 
 ### Compilers
 
 * [Stanford's Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
-
+- - - -
 
 ### Cuda
 
 * [Intro to Parallel Programming Using CUDA to Harness the Power of GPUs](https://www.udacity.com/course/intro-to-parallel-programming--cs344)
-
+- - - -
 
 ### Data Science
 
@@ -215,13 +219,13 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-3)
 * [More Data Mining with Weka MOOC](https://www.cs.waikato.ac.nz/ml/weka/mooc/moredataminingwithweka/)
 * [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-3)
-
+- - - -
 
 ### Databases
 
 * [Database Systems](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-830-database-systems-fall-2010/) (MIT's opencourseware)
 * [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) (Stanford University)
-
+- - - -
 
 ### Deep Learning
 
@@ -232,7 +236,7 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Self-Paced Courses for Deep Learning](https://developer.nvidia.com/deep-learning-courses)
 * [Unsupervised Feature Learning and Deep Learning](http://deeplearning.stanford.edu/tutorial)
 * [What is Deep Learning](https://www.udacity.com/course/deep-learning--ud730)
-
+- - - -
 
 ### Git
 
@@ -241,13 +245,13 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Git and GitHub for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
 * [GitHowTo](https://githowto.com)
 * [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775) (Udacity)
-
+- - - -
 
 ### Go
 
 * [A Tour Of Go](https://tour.golang.org/welcome/1)
 * [Go Tutorial](http://www.tutorialspoint.com/go/index.htm)
-
+- - - -
 
 ### Haskell
 
@@ -256,7 +260,7 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [CS240h: Functional Systems in Haskell](http://www.scs.stanford.edu/11au-cs240h/notes/) - Bryan O'Sullivan
 * [edX: Introduction to Functional Programming](https://www.edx.org/course/introduction-functional-programming-delftx-fp101x-0) - Erik Meijer
 * [RWTH Aachen University: Functional Programming](https://videoag.fsmpi.rwth-aachen.de/?course=12ss-funkprog) - Jürgen Giesl
-
+- - - -
 
 ### HTML / CSS
 
@@ -270,14 +274,14 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [HTML Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_FB-hVEgEGUESZL1TOiJ6)
 * [Learn how to program: CSS](https://www.learnhowtoprogram.com/css) - Epicodus Inc.
 * [Learn HTML5 Programming From Scratch](https://www.udemy.com/learn-html5-programming-from-scratch/)
-
+- - - -
 
 ### iOS
 
 * [AppCoda Complete iOS Tutorial](http://www.appcoda.com/ios-programming-course/)
 * [Developing iOS 11 Apps with Swift](https://itunes.apple.com/us/course/developing-ios-11-apps-with-swift/id1309275316)
 * [Ray Wenderlich iOS Tutorial](https://www.raywenderlich.com/category/ios)
-
+- - - -
 
 ### Java
 
@@ -291,7 +295,7 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Princeton Algorithms, Part 1](https://www.coursera.org/course/algs4partI)
 * [Princeton Algorithms, Part 2](https://www.coursera.org/course/algs4partII)
 * [Problem Solving With Java](https://www.udacity.com/course/intro-to-java-programming--cs046)
-
+- - - -
 
 ### JavaScript
 
@@ -300,7 +304,7 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Intro to JavaScript ES6 programming](https://www.youtube.com/playlist?list=PL-xu4i_QDSxcoDNeh8rx5-pHCCTOg0XsI)
 * [Learn how to program: JavaScript](https://www.learnhowtoprogram.com/javascript) - Epicodus Inc.
 * [learn:query](https://learnquery.infinum.co)
-
+- - - -
 
 #### Angular.js
 
@@ -308,33 +312,33 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [CodeCademy Angular](https://www.codecademy.com/learn/learn-angularjs)
 * [egghead.io youtube channel: Learn AngularJS with Tutorial Videos & Training](https://www.youtube.com/user/johnlindquist)
 * [Shaping up with Angular.js](https://www.codeschool.com/courses/shaping-up-with-angular-js)
-
+- - - -
 
 #### jQuery
 
 * [Bento jQuery Track](https://bento.io/topic/jquery) (Bento)
-
+- - - -
 
 #### React
 
 * [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
-
+- - - -
 
 #### Redux
 
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
-
+- - - -
 
 ### Sails.Js
 
 * [Develop web apps in Node.js and Sails.js](https://courses.platzi.com/courses/develop-apps-sails-js/)
-
+- - - -
 
 ### Lua
 
 * [Lua Interactive Crash Course](http://luatut.com/crash_course.html)
 * [Lua Tutorial](http://www.tutorialspoint.com/lua/)
-
+- - - -
 
 ### Machine Learning
 
@@ -343,17 +347,17 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/people/cmbishop/#!prml-book)
 * [Principles of Machine Learning By Microsoft](https://www.edx.org/course/principles-machine-learning-microsoft-dat203-2x-6)
 * [Stanford University Machine Learning](https://www.coursera.org/learn/machine-learning)
-
+- - - -
 
 ### MATLAB
 
 * [MIT 18.S997 Introduction to MATLAB Programming](http://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/)
-
+- - - -
 
 ### Mercurial
 
 * [Hg Init: a Mercurial Tutorial](http://hginit.com) - Joel Spolsky
-
+- - - -
 
 ### Misc
 
@@ -382,7 +386,7 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto)
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2)
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
-
+- - - -
 
 ### .NET
 
@@ -393,18 +397,18 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 
 * [Cornell's Data Structures and Functional Programming](http://www.cs.cornell.edu/courses/cs3110/2015fa/)
 * [Introduction to Functional Programming in OCaml](https://www.fun-mooc.fr/courses/parisdiderot/56002S02/session02/about)
-
+- - - -
 
 ### Perl
 
 * [Perl Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpqRBcStwV0NwMA3nXMh5GC)
-
+- - - - 
 
 ### PHP
 
 * [Learn how to program: PHP](https://www.learnhowtoprogram.com/php) - Epicodus Inc.
 * [PHP & MySQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWrjkpK2zD4TWKWMWVfeYK-b)
-
+- - - -
 
 ### Python
 
@@ -426,35 +430,35 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) (Udacity)
 * [Python Course](http://www.python-course.eu)
 * [Python Programming Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWpX_byHyTEj9hecPngl2DqR)
-
+- - - -
 
 ### QB64
 
 * [Game Programming with QB64](http://qb64sourcecode.com) - Terry Ritchie
-
+- - - -
 
 ### R
 
 * [R Programming](https://www.coursera.org/course/rprog)
 * [Edx R Programming courses](https://www.edx.org/learn/r-programming)
-
+- - - -
 
 ### RethinkDB
 
 * [RethinkDB: Distributed Databases](https://courses.platzi.com/courses/rethinkdb-databases/)
-
+- - - -
 
 ### Ruby
 
 * [Learn how to program: Ruby](https://www.learnhowtoprogram.com/ruby) - Epicodus Inc.
 * [RubyMonk - Interactive Ruby tutorials](https://rubymonk.com)
-
+- - - -
 
 ### Scala
 
 * [Functional Programming Principles in Scala](https://www.coursera.org/course/progfun)
 * [Principles of Reactive Programming](https://www.coursera.org/course/reactive)
-
+- - - -
 
 ### Software Engineering
 
@@ -462,28 +466,28 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Agile Development Using Ruby on Rails - Advanced](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-2x#!)
 * [Agile Development Using Ruby on Rails - Basics](https://www.edx.org/course/agile-development-using-ruby-rails-uc-berkeleyx-cs169-1x#!)
 * [Software Construction in Java](https://www.edx.org/course/software-construction-java-mitx-6-005-1x)
-
+- - - -
 
 ### SQL
 
 * [SQL Tutorial](https://www.youtube.com/playlist?list=PL_RGaFnxSHWr_6xTfF2FrIw-NAOo3iWMy)
-
+- - - -
 
 ### Swift
 
 * [Swiftris - Build an iOS Tetris app from scratch](https://www.bloc.io/swiftris-build-your-first-ios-game-with-swift)
-
+- - - -
 
 #### Vapor
 
 * [Vapor University](https://vapor.university)
-
+- - - -
 
 ### Theory
 
 * [Automata Theory](https://lagunita.stanford.edu/courses/course-v1:ComputerScience+Automata+Fall2016/about)
 * [Udacity: Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
-
+- - - -
 
 ### Verilog / VHDL / SystemVerilog
 
@@ -491,7 +495,7 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [SystemVerilog - Learn basics of SystemVerilog for Hardware Verification](https://verificationexcellence.teachable.com/p/learn-systemverilog)
 * [SystemVerilog based UVM Methodology - Learn to build UVM based Testbenches in SystemVerilog](https://verificationexcellence.teachable.com/p/learn-ovm-uvm)
 * [Verilog Hardware Description Language - An Introductory Course](http://vol.verilog.com/VOL/main.htm)
-
+- - - -
 
 ### Web Development
 
@@ -499,8 +503,10 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Flask(A Python Microframework) Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [Free Code Camp](https://www.freecodecamp.org)
 * [The Odin Project - Learn Web Development for Free](http://www.theodinproject.com)
+- - - -
 
 ### Articles
+
 - [Introduction to Algorithms for Beginners and Aspiring Programmers](https://www.thecodingdelight.com/introduction-algorithms/)
 - [Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
 - [An introduction to Artificial Intelligence](https://hackernoon.com/understanding-understanding-an-intro-to-artificial-intelligence-be76c5ec4d2e)
@@ -509,8 +515,10 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 - [Which machine learning algorithm should I use?](https://blogs.sas.com/content/subconsciousmusings/2017/04/12/machine-learning-algorithm-use/?utm_source=facebook&utm_medium=cpc&utm_campaign=analytics-global&utm_content=US_interests-conversions)
 - [The Journey of a Machine Learning model from Building to Retraining](https://towardsdatascience.com/the-journey-of-a-machine-learning-model-from-building-to-retraining-fe3a37c32307?gi=38d2b73db825)
 - [An executive’s guide to AI by McKinsey&Company](https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/an-executives-guide-to-ai)
+- - - -
 
 ### Courses
+
 - [Learn Python](http://introtopython.org/var_string_num.html)
 - [edX Home PageSchoolYourself:GeometryX
 Introduction to Geometry](https://courses.edx.org/courses/course-v1:SchoolYourself+GeometryX+2T2016/course/)
@@ -519,12 +527,14 @@ Introduction to Geometry](https://courses.edx.org/courses/course-v1:SchoolYourse
 - [Introduction to Artificial Intelligence by Microsoft on edx](https://www.edx.org/course/introduction-to-artificial-intelligence-ai)
 - [Introduction to Machine Learning crash course by Google](https://developers.google.com/machine-learning/crash-course/ml-intro)
 - [Foundations of Machine Learning(foml) by Bloomberg](https://www.techatbloomberg.com/foml)
+- - - - 
 
 ### Books
 
 - [Machine Learning for Dummies, IBM Limited edition](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMM14209USEN) - *75 Pages*
 - [Machine Learning Yearning by Andrew Ng - Signup for a free draft copy](http://www.mlyearning.org) - *Approx. 100 pages*
 - [The Hundred-Page Machine Learning Book](http://themlbook.com/wiki/doku.php)
+- - - - 
 
 ### Quick guides
 
@@ -534,7 +544,7 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 - [What is Machine Learning?](https://www.mathworks.com/content/dam/mathworks/tag-team/Objects/i/88174_92991v00_machine_learning_section1_ebook.pdf)
 - [Introducing Deep Learning with MATLAB](https://es.mathworks.com/content/dam/mathworks/tag-team/Objects/d/80879v00_Deep_Learning_ebook.pdf)
 - [Introduction to Tensorflow](https://dzone.com/refcardz/introduction-to-tensorflow?chapter=1)
-
+- - - -
 
 * ### Cheatsheets
 - [Python Experimental](http://www.pythontutor.com/visualize.html#mode=edit)
@@ -549,12 +559,17 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
   - Supervised Learning: http://stanford.io/2nRlxxp  
   - Unsupervised Learning: http://stanford.io/2MmP6FN  
 - [Machine Learning for dummies cheat sheet](https://www.dummies.com/programming/big-data/data-science/machine-learning-dummies-cheat-sheet/)
+- - - -
 
 ### Tutorials
-- [Machine Learning Tutorial for Beginners – Learn Machine Learning](https://data-flair.training/blogs/machine-learning-tutorial/)
 
-### Presentations 
+- [Machine Learning Tutorial for Beginners – Learn Machine Learning](https://data-flair.training/blogs/machine-learning-tutorial/)
+- - - -
+
+### Presentations
+
 - [Deep Learning - The Past, Present and Future of Artificial Intelligence](https://www.slideshare.net/LuMa921/deep-learning-the-past-present-and-future-of-artificial-intelligence)
+- - - -
 
 ## Advanced AI
 ### Courses
