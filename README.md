@@ -60,6 +60,7 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Stanford University Algorithms: Design and Analysis, Part 1](http://online.stanford.edu/course/algorithms-design-and-analysis-part-1)
 * [Stanford University Algorithms: Design and Analysis, Part 2](http://online.stanford.edu/course/algorithms-design-and-analysis-part-2)
 
+- - - -
 #### Mathematics
 
 * [A First Course in Linear Algebra](http://linear.ups.edu) - Robert A. Beezer
