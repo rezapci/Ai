@@ -4,6 +4,7 @@
 
 A thoughtfully organized list of articles, books, courses, infographics and many more covering Artificial Intelligence,Algorithm, Machine Learning and    Deep Learning gathered By [***Reza Hashemi***](https://www.linkedin.com/in/rezahashemidev) :+1:.
 
+#### Fork this repo, add more content and a PR to merge that others can learn and share with others. More education :school: is what makes people live longer, not more money
 
 ![alt text][logo]
 
@@ -595,8 +596,3 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 
 ### Online Forum & Q/A 
 - [Python Forum](https://python-forum.io/index.php) ![picure alt](https://www.python.org/static/community_logos/python-powered-h-50x65.png)
-
-
-#### Fork this repo, add more content and a PR to merge that others can learn and share with others. More education :school: is what makes people live longer, not more money
-
-
