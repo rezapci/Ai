@@ -612,3 +612,6 @@ Artificial Intelligence: Machine Learning and Predictive Analytics](https://dzon
 
 ### Online Forum & Q/A 
 - [Python Forum](https://python-forum.io/index.php) ![picure alt](https://www.python.org/static/community_logos/python-powered-h-50x65.png)
+
+
+![picure alt](https://pics.me.me/i-am-thankful-to-all-those-who-said-no-its-15192855.png)
