@@ -3,9 +3,9 @@
 - # :orange_book: [About Muḥammad ibn Mūsā al-Khwārizmi محمد بن موسى خوارزمی](http://www.staff.science.uu.nl/~hogen103/khwarizmi1.html) #
 
 A thoughtfully organized list of articles, books, courses, infographics and many more covering Artificial Intelligence,Algorithm, Machine Learning and    Deep Learning gathered By [***Reza Hashemi***](https://www.linkedin.com/in/rezahashemidev) :+1:.
-
+- - - - 
 #### :exclamation: Fork this repo, add more content and a PR to merge that others can learn and share with others. More education :school: is what makes people live longer, not more money
-
+- - - - 
 ![alt text][logo]
 
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
