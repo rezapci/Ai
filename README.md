@@ -12,6 +12,7 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 - - - - 
 
 ![alt text][logo]
+
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
