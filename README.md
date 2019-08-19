@@ -10,8 +10,8 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 </div>
 :exclamation: Fork this repo, add more content and a PR to merge that others can learn and share with others. More education :school: is what makes people live longer, not more money
 - - - - 
-![alt text][logo]
 
+![alt text][logo]
 [logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
 
 
