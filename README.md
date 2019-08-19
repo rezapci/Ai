@@ -8,7 +8,8 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 <h1> exclamation: Fork this repo, add more content and a PR to merge that others can learn and share with others. More education school is what makes people live longer, not more money: </h1>
 <b>check the bottom 10 rows of data frame "df".</b>
 </div>
-:exclamation: Fork this repo, add more content and a PR to merge that others can learn and share with others. More education :school: is what makes people live longer, not more money
+:exclamation: Fork this repo, add more content and a PR to merge that others can learn and share with others. More education :school: is what makes people live longer, not more money.
+
 - - - - 
 
 ![alt text][logo]
