@@ -390,7 +390,7 @@ A thoughtfully organized list of articles, books, courses, infographics and many
 * [Stanford Cryptography I](https://www.coursera.org/course/crypto)
 * [Stanford Cryptography II](https://www.coursera.org/course/crypto2)
 * [Stanford SEE 229 - Machine Learning](https://see.stanford.edu/Course/CS229)
-* [Stanford Engineering Everywhere _EE103/CME103, EE104,EE263, EE363, EE364a, EE364b, EE365.__ - Convex Optimization](http://web.stanford.edu/~boyd/index.html)
+* [Stanford Engineering Everywhere _EE103/CME103, EE104,EE263, EE363, EE364a, EE364b, EE365.__ - Convex Optimization **Prof Stephen P. Boyd **](http://web.stanford.edu/~boyd/index.html)
 - - - -
 
 ### .NET
