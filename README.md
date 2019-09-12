@@ -4,7 +4,7 @@
 
 A thoughtfully organized list of articles, books, courses, infographics and many more covering Artificial Intelligence,Algorithm, Machine Learning and    Deep Learning gathered By [***Reza Hashemi***](https://www.linkedin.com/in/rezahashemidev) :+1:.
 - - - - 
-<div class="alert alert-danger alertdanger" style="margin-top: 20px"> <h1> exclamation: Fork this repo, add more content and a PR to merge that others can learn and share with others. More education school is what makes people live longer, not more money.
+<div class="alert alert-danger alertdanger" style="margin-top: 20px"> <h1> :octocat: exclamation: Fork this repo, add more content and a PR to merge that others can learn and share with others. More education school is what makes people live longer, not more money.
  </h1><b>Fork this repo, add more content and a PR to merge that others can learn and share with others. More education :school: is what makes people live longer, not more money..</b> </div>
 :exclamation:
 
